@@ -15,3 +15,9 @@
 .span {
   font-size: 15px;
 }
+.search-area {
+  margin: 100px;
+}
+.search-area select {
+  padding: 20px;
+}
