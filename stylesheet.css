@@ -7,6 +7,9 @@
 .header h2 {
   color: rgb(0, 0, 0)
 }
+.text {
+  margin: -5px;
+}
 #myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
