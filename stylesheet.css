@@ -81,7 +81,7 @@ ul#myUL li {
 #myUL li .b {
   border: 1px solid #ddd; /* Add a border to all links */
   border-top: none;
-  margin-top: -33px; /* Prevent double borders */
+  margin-top: -35px; /* Prevent double borders */
   background-color: #f6f6f6; /* Grey background color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
