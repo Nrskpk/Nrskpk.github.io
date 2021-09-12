@@ -1,1 +1,1 @@
-# Nrskpk.github.io
+プログラミング第一弾
