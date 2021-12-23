@@ -2,13 +2,13 @@
   color: #000000;
   text-align: center;
   margin: 50px;
-  background-color:rgb(152, 196, 139);
+  background-color:rgb(139, 143, 196);
 }
 .header h2 {
   color: rgb(0, 0, 0)
 }
 body {
-    background-color: rgb(224, 238, 220);
+    background-color: rgb(220, 220, 238);
 }
 .text {
   margin: -5px;
@@ -36,7 +36,7 @@ ul#myUL li {
 #myUL li a {
   border: 1px solid #ddd; /* Add a border to all links */
   margin-top: -1px; /* Prevent double borders */
-  background-color: #ffe6e6; /* Grey background color */
+  background-color: #d8b99d; /* Grey background color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
