@@ -93,6 +93,24 @@ ul#myUL li {
   display: block; /* Make it into a block element to fill the whole list */
 }
 
+#myUL li .c {
+  padding-left: 50px;
+  color:rgb(255, 0, 0)
+
+}
+
+#myUL li .d {
+  padding-left: 126px;
+  color:rgb(255, 0, 0)
+
+}
+
+#myUL li .e {
+  padding-left: 50px;
+  color:rgb(0, 0, 255)
+
+}
+
 
 input[type=checkbox]{
   width: 30px;
