@@ -17,7 +17,7 @@ body {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
   background-repeat: no-repeat; /* Do not repeat the icon image */
-  width: 100%; /* Full-width */
+  width: 830px; /* Full-width */ /* 100%から830pxに書き換えました　*/
   font-size: 50px; /* Increase font-size */
   padding: 12px 20px 12px 40px; /* Add some padding */
   border: 1px solid #ddd; /* Add a grey border */
@@ -31,7 +31,7 @@ body {
   margin: 0;
 }
 ul#myUL li {
-    padding: 0;
+    padding: 0px;
 }
 #myUL li a {
   border: 1px solid #ddd; /* Add a border to all links */
@@ -64,7 +64,7 @@ ul#myUL li {
   background-color: #f6f6f6; /* Grey background color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
-  font-size: px; /* Increase the font-size */
+  font-size: 30px; /* Increase the font-size */
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
@@ -77,18 +77,24 @@ ul#myUL li {
   background-color: #f6f6f6; /* Grey background color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
-  font-size: 18px; /* Increase the font-size */
+  font-size: 30px; /* Increase the font-size */
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
 #myUL li .b {
   border: 1px solid #ddd; /* Add a border to all links */
   border-top: none;
-  margin-top: -35px; /* Prevent double borders */
+  margin-top: -33px; /* Prevent double borders */
   background-color: #f6f6f6; /* Grey background color */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove default text underline */
-  font-size: 18px; /* Increase the font-size */
+  font-size: 30px; /* Increase the font-size */
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
+}
+
+
+input[type=checkbox]{
+  width: 30px;
+  height: 30px;
 }
